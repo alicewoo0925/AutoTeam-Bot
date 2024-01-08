@@ -23,4 +23,5 @@
 2. 채팅채널에서 "!팀생성 (팀원숫자)" 입력해주세요. 이때 팀원숫자는 각 팀의 인원입니다.
 
 ### 예시
-![image](https://github.com/alicewoo0925/AutoTeam-Bot/assets/48823257/c4721b59-2620-4179-b3d7-b6dbdcc7613d)
+![image](https://github.com/alicewoo0925/AutoTeam-Bot/assets/48823257/e3aa1c1d-3eae-4ab6-9beb-79643c6f8355)
+
